@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virus
 - 👀 I’m interested in ... stickers
 - 🌱 I’m currently learning ... php
-- 💞️ I’m looking to collaborate on ... sex
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... dont contact me
 
 <!---
